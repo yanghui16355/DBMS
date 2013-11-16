@@ -1,4 +1,3 @@
-## For students: change this path to the root of your code
 CODEROOT = "../"
 
 #CC = gcc
